@@ -1,19 +1,1 @@
-<<<<<<< HEAD
-=======
 
-<<<<<<< HEAD
->>>>>>> eb034743bc5b7effa8c595b09c826b6c8bdec25e
-<<<<<<< HEAD
-new change
-new z file changed
-=======
-new change
->>>>>>> 2980f8d6879106a8cceba65938220276b3b355fa
-to check diff between fetch and pull
-<<<<<<< HEAD
-=======
-=======
-new change
-new z file changed
->>>>>>> 1f0b63a ( 11)
->>>>>>> eb034743bc5b7effa8c595b09c826b6c8bdec25e
